@@ -5,3 +5,9 @@ Whats Half-Working?
 
 Whats not working? 
 1) Edit option :- It is not working as If i had worked on that then the time limit would have be exceeded
+
+
+To run the application:-
+1) Clone the Repo
+2) Install the necessary npm Modules (npm install)
+3) Run the application (npm start)
